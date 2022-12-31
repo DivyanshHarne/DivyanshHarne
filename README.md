@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web development and blockchain
 - 🌱 I’m currently learning ...php and javascript
 - 💞️ I’m looking to collaborate on ... back end for experience
-- 📫 How to reach me ... harnedivyansh@gmail.com or 74898699253
+- 📫 How to reach me ... harnedivyansh@gmail.com or +91 7489869925
 
 <!---
 DivyanshHarne/DivyanshHarne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
