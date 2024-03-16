@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivyanshHarne
-- 👀 I’m interested in ...Web development and blockchain
-- 🌱 I’m currently learning ...mongoDB and React Js
+- 👀 I’m interested in ...Web development and App development
+- 🌱 I’m currently learning ...Next.js 14 and Flutter
 - 💞️ I’m looking to collaborate on Mern stack projects
 - 📫 How to reach me ... harnedivyansh@gmail.com or +91 7489869925
 
